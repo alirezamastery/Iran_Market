@@ -1,6 +1,8 @@
 /venv/
 /Data/
 /Opt_Results/
+/.idea/
+webdriver/
 *.png
 *.jpeg
 *.csv

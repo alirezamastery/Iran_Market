@@ -1,0 +1,13 @@
+Sell Signals:
+
+buy Signals:
+FEOLAD          │ Stoch RSI: 26.86 │ RSI: 49.82 
+VABEMELAT       │ Stoch RSI: 22.49 │ RSI: 45.38 
+VATEJARAT       │ Stoch RSI: 21.28 │ RSI: 37.61 
+VAPASAR         │ Stoch RSI: 27.64 │ RSI: 41.47 
+KHODRO          │ Stoch RSI: 27.57 │ RSI: 23.81 
+KHPARS          │ Stoch RSI: 22.54 │ RSI: 23.8  
+BAREKAT         │ Stoch RSI: 21.95 │ RSI: 22.79 
+DETOLID         │ Stoch RSI: 31.77 │ RSI: 27.91 
+SITA            │ Stoch RSI: 21.74 │ RSI: 39.93 
+SIDKO           │ Stoch RSI: 22.44 │ RSI: 27.57 

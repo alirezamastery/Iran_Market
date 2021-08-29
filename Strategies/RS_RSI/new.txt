@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "C:/Users/ALIREZA/PycharmProjects/Iran_Market/Strategies/RS_RSI/RS_RSI_new.py", line 130, in <module>
+    test = RS_backtest(strategy=RSI_RS)
+  File "C:\Users\ALIREZA\PycharmProjects\Iran_Market\Modules\templates.py", line 466, in __init__
+    show=self.show)
+  File "C:\Users\ALIREZA\PycharmProjects\Iran_Market\Modules\symdata.py", line 230, in add_cerebro_data
+    index_col=[2])
+  File "C:\Users\ALIREZA\PycharmProjects\Iran_Market\venv_Iran_Market\lib\site-packages\pandas\io\parsers.py", line 685, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\ALIREZA\PycharmProjects\Iran_Market\venv_Iran_Market\lib\site-packages\pandas\io\parsers.py", line 457, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "C:\Users\ALIREZA\PycharmProjects\Iran_Market\venv_Iran_Market\lib\site-packages\pandas\io\parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "C:\Users\ALIREZA\PycharmProjects\Iran_Market\venv_Iran_Market\lib\site-packages\pandas\io\parsers.py", line 1135, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "C:\Users\ALIREZA\PycharmProjects\Iran_Market\venv_Iran_Market\lib\site-packages\pandas\io\parsers.py", line 1917, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 382, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 689, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File b'../../Data/selected/TEPIX_Share_D.txt' does not exist: b'../../Data/selected/TEPIX_Share_D.txt'

@@ -1,0 +1,11 @@
+/venv/
+/Data/
+/Opt_Results/
+*.png
+*.jpeg
+*.csv
+*.xlsx
+*.pdf
+*.exe
+*.bat
+log.txt
